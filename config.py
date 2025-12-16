@@ -19,6 +19,7 @@ class Config:
     _env_recipients = os.getenv('RECIPIENT_EMAIL', '').split(',')
     RECIPIENT_EMAIL = [email.strip() for email in _env_recipients if email.strip()]
     RECIPIENT_EMAIL.append('yashwanthkp753@gmail.com')
+    RECIPIENT_EMAIL.append('sreekarsmailbox@gmail.com')
     # Remove duplicates while preserving order
     RECIPIENT_EMAIL = list(dict.fromkeys(RECIPIENT_EMAIL))
     
