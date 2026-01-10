@@ -625,3 +625,4 @@ Check_Time_UTC,Target_Sheet,Status,Notes
 2026-01-10 03:29:05,January 9,ERROR,Failed to fetch sheet 'January 9': 401 Client Error: Unauthorized for url: https://docs.google.com/s
 2026-01-10 04:10:37,January 9,ERROR,Failed to fetch sheet 'January 9': 401 Client Error: Unauthorized for url: https://docs.google.com/s
 2026-01-10 05:02:42,January 9,ERROR,Failed to fetch sheet 'January 9': 401 Client Error: Unauthorized for url: https://docs.google.com/s
+2026-01-10 06:02:29,January 9,ERROR,"Failed to fetch sheet 'January 9': HTTPSConnectionPool(host='docs.google.com', port=443): Read timed"
