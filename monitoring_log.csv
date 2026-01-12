@@ -668,3 +668,4 @@ Check_Time_UTC,Target_Sheet,Status,Notes
 2026-01-11 22:01:49,January 9,ERROR,Failed to fetch sheet 'January 9': 401 Client Error: Unauthorized for url: https://docs.google.com/s
 2026-01-11 23:01:52,January 9,ERROR,Failed to fetch sheet 'January 9': 401 Client Error: Unauthorized for url: https://docs.google.com/s
 2026-01-12 00:06:08,January 12,ERROR,Failed to fetch sheet 'January 12': 401 Client Error: Unauthorized for url: https://docs.google.com/
+2026-01-12 01:30:33,January 12,ERROR,Failed to fetch sheet 'January 12': 401 Client Error: Unauthorized for url: https://docs.google.com/
