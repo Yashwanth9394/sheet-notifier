@@ -57,8 +57,10 @@ class EmailSender:
         html += """
 </tbody>
 </table>
-<div style="margin-top: 30px; padding-top: 20px; border-top: 1px solid #ddd; color: #666; font-size: 12px; text-align: center;">
-Automated daily job updates via Sheet Notifier
+<div style="margin-top: 30px; padding-top: 20px; border-top: 1px solid #ddd; color: #666; font-size: 12px;">
+<p style="text-align: center; margin-bottom: 10px;">Automated daily job updates via Sheet Notifier</p>
+<p style="text-align: center; margin: 5px 0;">You're receiving this because you subscribed to daily job notifications.</p>
+<p style="text-align: center; margin: 5px 0;">Questions? Reply to this email.</p>
 </div>
 </div>
 </body>
