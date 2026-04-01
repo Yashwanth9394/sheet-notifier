@@ -2544,3 +2544,4 @@ Check_Time_UTC,Target_Sheet,Status,Notes
 2026-03-31 21:09:16,March 31,ERROR,Failed to fetch sheet 'March 31': 401 Client Error: Unauthorized for url: https://docs.google.com/sp
 2026-03-31 22:08:29,March 31,ERROR,Failed to fetch sheet 'March 31': 401 Client Error: Unauthorized for url: https://docs.google.com/sp
 2026-03-31 23:07:05,March 31,ERROR,Failed to fetch sheet 'March 31': 401 Client Error: Unauthorized for url: https://docs.google.com/sp
+2026-04-01 00:12:00,April 1,ERROR,Failed to fetch sheet 'April 1': 401 Client Error: Unauthorized for url: https://docs.google.com/spr
