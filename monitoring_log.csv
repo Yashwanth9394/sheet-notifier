@@ -3385,3 +3385,4 @@ Check_Time_UTC,Target_Sheet,Status,Notes
 2026-05-07 21:18:16,May 7,ERROR,Failed to fetch sheet 'May 7': 401 Client Error: Unauthorized for url: https://docs.google.com/sprea
 2026-05-07 22:19:58,May 7,ERROR,Failed to fetch sheet 'May 7': 401 Client Error: Unauthorized for url: https://docs.google.com/sprea
 2026-05-07 23:16:30,May 7,ERROR,Failed to fetch sheet 'May 7': 401 Client Error: Unauthorized for url: https://docs.google.com/sprea
+2026-05-08 00:20:26,May 8,ERROR,Failed to fetch sheet 'May 8': 401 Client Error: Unauthorized for url: https://docs.google.com/sprea
