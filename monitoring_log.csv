@@ -3849,3 +3849,4 @@ Check_Time_UTC,Target_Sheet,Status,Notes
 2026-05-31 13:30:13,May 29,ERROR,Failed to fetch sheet 'May 29': 401 Client Error: Unauthorized for url: https://docs.google.com/spre
 2026-05-31 14:30:11,May 29,ERROR,Failed to fetch sheet 'May 29': 401 Client Error: Unauthorized for url: https://docs.google.com/spre
 2026-05-31 15:26:11,May 29,ERROR,Failed to fetch sheet 'May 29': 401 Client Error: Unauthorized for url: https://docs.google.com/spre
+2026-05-31 16:23:36,May 29,ERROR,Failed to fetch sheet 'May 29': 401 Client Error: Unauthorized for url: https://docs.google.com/spre
