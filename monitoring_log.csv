@@ -4283,3 +4283,4 @@ Check_Time_UTC,Target_Sheet,Status,Notes
 2026-06-25 15:49:48,June 25,ERROR,Failed to fetch sheet 'June 25': 401 Client Error: Unauthorized for url: https://docs.google.com/spr
 2026-06-25 16:43:10,June 25,ERROR,Failed to fetch sheet 'June 25': 401 Client Error: Unauthorized for url: https://docs.google.com/spr
 2026-06-25 17:37:09,June 25,ERROR,Failed to fetch sheet 'June 25': 401 Client Error: Unauthorized for url: https://docs.google.com/spr
+2026-06-25 18:39:33,June 25,ERROR,Failed to fetch sheet 'June 25': 401 Client Error: Unauthorized for url: https://docs.google.com/spr
