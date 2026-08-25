@@ -5623,3 +5623,4 @@ Check_Time_UTC,Target_Sheet,Status,Notes
 2026-08-25 09:11:15,August 25,ERROR,Failed to fetch sheet 'August 25': 401 Client Error: Unauthorized for url: https://docs.google.com/s
 2026-08-25 10:06:24,August 25,ERROR,Failed to fetch sheet 'August 25': 401 Client Error: Unauthorized for url: https://docs.google.com/s
 2026-08-25 11:05:38,August 25,ERROR,Failed to fetch sheet 'August 25': 401 Client Error: Unauthorized for url: https://docs.google.com/s
+2026-08-25 12:05:31,August 25,ERROR,Failed to fetch sheet 'August 25': 401 Client Error: Unauthorized for url: https://docs.google.com/s
