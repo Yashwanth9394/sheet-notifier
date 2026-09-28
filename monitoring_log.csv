@@ -6393,3 +6393,4 @@ Check_Time_UTC,Target_Sheet,Status,Notes
 2026-09-27 21:01:59,September 25,ERROR,Failed to fetch sheet 'September 25': 401 Client Error: Unauthorized for url: https://docs.google.co
 2026-09-27 22:02:36,September 25,ERROR,Failed to fetch sheet 'September 25': 401 Client Error: Unauthorized for url: https://docs.google.co
 2026-09-27 23:02:18,September 25,ERROR,Failed to fetch sheet 'September 25': 401 Client Error: Unauthorized for url: https://docs.google.co
+2026-09-28 00:08:03,September 28,ERROR,Failed to fetch sheet 'September 28': 401 Client Error: Unauthorized for url: https://docs.google.co
